@@ -31,7 +31,7 @@ Além das operações básicas, o projeto inclui:
 1. Clone este repositório para sua máquina local:
    
    ```bash
-   git clone https://github.com/seu-usuario/unity-calculator.git
+   git clone https://github.com/Pedro-Estevao/Calc-TP.git
 
 2. Abra o projeto na Unity:
    - Abra o Unity Hub.
