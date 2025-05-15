@@ -1,67 +1,73 @@
-# Calculadora em Unity
+# Calculator in Unity
 
-Este projeto foi desenvolvido como parte do curso de **Técnicas de Programação I** do curso de Ciência da Computação. A aplicação é uma **calculadora** básica, desenvolvida utilizando a **Unity Engine**, com o objetivo de aplicar conceitos fundamentais de programação orientada a objetos (POO), lógica de programação e interface gráfica.
+<p style="text-align: center;">
+    <a href="https://www.baraodemaua.br">
+        <img src="https://res.cloudinary.com/dge3g9rcw/image/upload/v1747334381/github/iftsarhxiloy46wr4ny9.webp" alt="illustrative image" />
+    </a>
+</p>
 
-## Funcionalidades
+This project was developed as part of the **Programming Techniques I** course in the Computer Science program. The application is a basic **calculator**, built using the **Unity Engine**, with the goal of applying fundamental concepts of object-oriented programming (OOP), programming logic, and graphical user interface development.
 
-A calculadora inclui as seguintes operações básicas:
+## Features
 
-- **Adição**: Soma de dois números.
-- **Subtração**: Diferença entre dois números.
-- **Multiplicação**: Produto de dois números.
-- **Divisão**: Quociente de dois números (com tratamento de divisão por zero).
-- **Reset**: Limpeza dos valores e da interface.
+The calculator includes the following basic operations:
 
-### Recursos Extras
+- **Addition**: Sum of two numbers.
+- **Subtraction**: Difference between two numbers.
+- **Multiplication**: Product of two numbers.
+- **Division**: Quotient of two numbers (with division by zero handling).
+- **Reset**: Clears values and resets the interface.
 
-Além das operações básicas, o projeto inclui:
+### Extra Features
 
-- **Interface Gráfica (UI)**: Desenvolvida na Unity com botões e displays dinâmicos para exibir os números e resultados das operações.
-- **Tratamento de Erros**: Verificação de entrada de dados inválidos e operações impossíveis (como divisão por zero).
-- **Código Modular**: Organização em scripts separados para operações e controle da interface, aplicando boas práticas de POO.
+In addition to the basic operations, the project includes:
 
-## Tecnologias Utilizadas
+- **Graphical User Interface (UI)**: Developed in Unity with buttons and dynamic displays to show numbers and operation results.
+- **Error Handling**: Validation of invalid input and prevention of impossible operations (such as division by zero).
+- **Modular Code**: Organized into separate scripts for operations and UI control, following good OOP practices.
 
-- **Unity Engine**: Ferramenta principal para desenvolvimento do projeto.
-- **C#**: Linguagem de programação usada para escrever os scripts da calculadora.
-- **Unity UI**: Sistema de interface gráfica utilizado para os botões e display da calculadora.
+## Technologies Used
 
-## Instalação
+- **Unity Engine**: Main tool used for project development.
+- **C#**: Programming language used to write the calculator scripts.
+- **Unity UI**: UI system used for buttons and calculator display.
 
-1. Clone este repositório para sua máquina local:
+## Installation
+
+1. Clone this repository to your local machine:
    
    ```bash
    git clone https://github.com/Pedro-Estevao/Calc-TP.git
 
-2. Abra o projeto na Unity:
-   - Abra o Unity Hub.
-   - Clique em "Add" e navegue até a pasta do projeto clonado.
+2. Open the project in Unity:
+   - Open Unity Hub.
+   - Click "Add" and navigate to the cloned project folder.
 
-3. Abra a cena principal:
-   - Navegue até o diretório **Assets/Scenes**.
-   - Abra a cena **SampleScene**.
+3. Open the main scene:
+   - Navigate to the **Assets/Scenes** directory.
+   - Open the **SampleScene** scene.
 
-## Como Usar
+## How to Use
 
-1. Execute o projeto na Unity clicando em **Play**.
+1. Run the project in Unity by clicking **Play**.
    
-2. Utilize a interface gráfica para inserir números e realizar operações.
-   - Clique nos botões numéricos para inserir valores.
-   - Use os botões de operação (+, -, *, /) para realizar cálculos.
-   - O botão **C** limpa a tela e redefine a calculadora.
+2. Use the graphical interface to input numbers and perform operations.
+   - Click the number buttons to enter values.
+   - Use the operation buttons (+, -, *, /) to perform calculations.
+   - The **C** button clears the screen and resets the calculator.
 
-## Aprendizado
+## Learning Outcomes
 
-Este projeto proporcionou uma oportunidade de aplicar os conceitos aprendidos no curso de **Técnicas de Programação I**, como:
-- Implementação de algoritmos básicos em **C#**.
-- Manipulação de interface gráfica utilizando **Unity UI**.
-- Uso da Unity como uma ferramenta para desenvolver aplicações não relacionadas a jogos.
-- Aplicação de conceitos de **POO** para modularizar o código e melhorar a manutenibilidade do projeto.
+This project provided an opportunity to apply concepts learned in the **Programming Techniques I** course, such as:
+- Implementing basic algorithms in **C#**.
+- Manipulating graphical interfaces using **Unity UI**.
+- Using Unity as a tool for building non-game applications.
+- Applying **OOP** concepts to modularize code and improve project maintainability.
 
-## Contribuição
+## Contribution
 
-Este projeto é aberto para contribuições. Caso tenha sugestões de melhorias ou novos recursos, sinta-se à vontade para abrir issues ou enviar pull requests.
+This project is open to contributions. If you have suggestions for improvements or new features, feel free to open issues or submit pull requests.
 
-## Licença
+---
 
-Este projeto está licenciado sob a **[MIT License](https://mit-license.org/)**.
+**Developed for academic purposes** 🎓
