@@ -32,6 +32,10 @@ In addition to the basic operations, the project includes:
 - **C#**: Programming language used to write the calculator scripts.
 - **Unity UI**: UI system used for buttons and calculator display.
 
+## Figma Design
+
+- [Calculator App UI Design](https://www.figma.com/design/RtzJdnjjYN7GhXjYLEcbrl/Calculator-App-Ui-Design-Download-Free-(Community))
+
 ## Installation
 
 1. Clone this repository to your local machine:
