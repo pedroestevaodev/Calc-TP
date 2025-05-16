@@ -1,4 +1,4 @@
-# Calculator in Unity
+# Calculator in Unity - Centro Universitário Barão de Mauá
 
 <p style="text-align: center;">
     <a href="https://www.baraodemaua.br">
